@@ -34,3 +34,5 @@ croped=img[220:300,40:400]
 cv.imshow("cropped",croped)
 
 cv.waitKey(0)
+
+#try going through doc for other functions
